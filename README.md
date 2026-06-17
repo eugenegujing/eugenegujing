@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f766e,50:2563eb,100:7c3aed&text=Hi%20Everyone!&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=48&desc=Computer%20Science%20%7C%20AI%20%7C%20Full-Stack%20%7C%20Data%20Systems&descAlign=50&descAlignY=58" alt="Eugene Gu profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f766e,50:2563eb,100:7c3aed&text=Hi%20Everyone!&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=48" alt="Eugene Gu profile header" />
 </p>
 
 <p align="center">
