@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:eugenegujing@outlook.com"><img src="https://img.shields.io/badge/Email-eugenegujing%40outlook.com-2563eb?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/eugenegujing"><img src="https://img.shields.io/badge/GitHub-eugenegujing-111827?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Irvine%2C%20CA-0f766e?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="mailto:eugenegujing@outlook.com" title="Email">
+    <img width="34" src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/eugenegujing" title="GitHub">
+    <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+  </a>
 </p>
 
 ## About
