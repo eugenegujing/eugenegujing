@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/animated-header.svg" alt="Hi Everyone!" />
+  <img src="./assets/animated-header-dark.svg" alt="Hi Everyone!" />
 </p>
 
 <p align="center">
