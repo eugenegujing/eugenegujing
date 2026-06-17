@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f766e,50:2563eb,100:7c3aed&text=Hi%20Everyone!&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=48" alt="Eugene Gu profile header" />
+  <img src="./assets/animated-header.svg" alt="Hi Everyone!" />
 </p>
 
 <p align="center">
@@ -42,5 +42,5 @@ I enjoy building practical systems across AI, full-stack development, data engin
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f766e,50:2563eb,100:7c3aed" alt="Footer wave" />
+  <img src="./assets/animated-footer.svg" alt="Animated footer wave" />
 </p>

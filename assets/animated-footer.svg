@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 110" role="img" aria-label="Animated pastel footer wave">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ddd6fe">
+        <animate attributeName="stop-color" values="#ddd6fe;#bfdbfe;#a7f3d0;#fbcfe8;#ddd6fe" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#bfdbfe">
+        <animate attributeName="stop-color" values="#bfdbfe;#fbcfe8;#ddd6fe;#a7f3d0;#bfdbfe" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a7f3d0">
+        <animate attributeName="stop-color" values="#a7f3d0;#fde68a;#bfdbfe;#ddd6fe;#a7f3d0" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="110" fill="#ffffff"/>
+  <path fill="url(#footerGradient)" d="M0 28 C260 54 426 62 640 44 C860 26 1036 26 1280 58 L1280 110 L0 110 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="
+      M0 28 C260 54 426 62 640 44 C860 26 1036 26 1280 58 L1280 110 L0 110 Z;
+      M0 58 C260 26 430 24 640 44 C858 64 1038 54 1280 28 L1280 110 L0 110 Z;
+      M0 28 C260 54 426 62 640 44 C860 26 1036 26 1280 58 L1280 110 L0 110 Z"/>
+  </path>
+  <path fill="#ffffff" fill-opacity="0.36" d="M0 38 C250 20 440 18 640 34 C862 52 1050 52 1280 20 L1280 0 L0 0 Z">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite" values="
+      M0 38 C250 20 440 18 640 34 C862 52 1050 52 1280 20 L1280 0 L0 0 Z;
+      M0 20 C246 52 442 54 640 34 C858 14 1052 20 1280 38 L1280 0 L0 0 Z;
+      M0 38 C250 20 440 18 640 34 C862 52 1050 52 1280 20 L1280 0 L0 0 Z"/>
+  </path>
+</svg>

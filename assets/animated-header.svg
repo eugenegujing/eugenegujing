@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 220" role="img" aria-label="Hi Everyone!">
+  <defs>
+    <linearGradient id="softGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a7f3d0">
+        <animate attributeName="stop-color" values="#a7f3d0;#bfdbfe;#fbcfe8;#ddd6fe;#a7f3d0" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#bfdbfe">
+        <animate attributeName="stop-color" values="#bfdbfe;#ddd6fe;#a7f3d0;#fde68a;#bfdbfe" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ddd6fe">
+        <animate attributeName="stop-color" values="#ddd6fe;#fbcfe8;#bfdbfe;#a7f3d0;#ddd6fe" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="178" fill="url(#softGradient)"/>
+  <path fill="#ffffff" fill-opacity="0.42" d="M0 160 C220 188 418 196 640 174 C858 153 1040 160 1280 188 L1280 220 L0 220 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+      M0 160 C220 188 418 196 640 174 C858 153 1040 160 1280 188 L1280 220 L0 220 Z;
+      M0 178 C226 144 438 152 640 174 C852 197 1048 188 1280 160 L1280 220 L0 220 Z;
+      M0 160 C220 188 418 196 640 174 C858 153 1040 160 1280 188 L1280 220 L0 220 Z"/>
+  </path>
+  <path fill="#ffffff" fill-opacity="0.26" d="M0 176 C260 152 420 150 646 170 C852 188 1038 182 1280 148 L1280 220 L0 220 Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite" values="
+      M0 176 C260 152 420 150 646 170 C852 188 1038 182 1280 148 L1280 220 L0 220 Z;
+      M0 148 C248 182 428 188 646 170 C848 150 1044 152 1280 176 L1280 220 L0 220 Z;
+      M0 176 C260 152 420 150 646 170 C852 188 1038 182 1280 148 L1280 220 L0 220 Z"/>
+  </path>
+  <text x="50%" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff">Hi Everyone!</text>
+</svg>
