@@ -10,6 +10,10 @@
   <a href="https://github.com/eugenegujing" title="GitHub">
     <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eugenegujing" title="LinkedIn">
+    <img width="34" src="./assets/linkedin.svg" alt="LinkedIn" />
+  </a>
 </p>
 
 ## About
