@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:eugenegujing@outlook.com" title="Email">
-    <img width="34" src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" alt="Email" />
+    <img width="34" src="./assets/outlook.svg" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/eugenegujing" title="GitHub">
