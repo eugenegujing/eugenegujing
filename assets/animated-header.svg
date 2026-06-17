@@ -25,5 +25,5 @@
       M0 148 C248 182 428 188 646 170 C848 150 1044 152 1280 176 L1280 220 L0 220 Z;
       M0 176 C260 152 420 150 646 170 C852 188 1038 182 1280 148 L1280 220 L0 220 Z"/>
   </path>
-  <text x="50%" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff">Hi Everyone!</text>
+  <text x="50%" y="104" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" fill="#111827">Hi Everyone!</text>
 </svg>
