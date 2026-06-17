@@ -10,9 +10,9 @@
 
 ## About
 
-Hi, I'm Eugene Gu, a student at the University of California, Irvine pursuing a B.S. in Computer Science with a specialization in Intelligent Systems, along with a B.S. in Applied and Computational Mathematics with a concentration in Data Science.
+Hi, I'm Eugene Gu. I'm a student at the University of California, Irvine pursuing a B.S. in Computer Science with a specialization in Intelligent Systems, along with a B.S. in Applied and Computational Mathematics with a concentration in Data Science.
 
-I enjoy building practical systems across AI, full-stack development, data engineering, and cloud deployment. My recent work includes AI agent research, full-stack web applications, RNA-seq data pipelines, and mobile health machine learning projects.
+I enjoy building practical systems across AI, full-stack development, data engineering, and cloud deployment.
 
 - Based in Irvine, CA
 - Native speaker of English and Mandarin
