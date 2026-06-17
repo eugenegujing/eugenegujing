@@ -3,17 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:eugenegujing@outlook.com" title="Email">
-    <img width="34" src="./assets/outlook.svg" alt="Email" />
-  </a>
+  <a href="mailto:eugenegujing@outlook.com" title="Email" style="text-decoration: none;"><img width="34" border="0" src="./assets/outlook.svg" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/eugenegujing" title="GitHub">
-    <img width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-  </a>
+  <a href="https://github.com/eugenegujing" title="GitHub" style="text-decoration: none;"><img width="34" border="0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eugenegujing" title="LinkedIn">
-    <img width="34" src="./assets/linkedin.svg" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/eugenegujing" title="LinkedIn" style="text-decoration: none;"><img width="34" border="0" src="./assets/linkedin.svg" alt="LinkedIn" /></a>
 </p>
 
 ## About
